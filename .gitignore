@@ -1,5 +1,5 @@
-dist/css
-dist/js
+dist/css/bulma.css
+dist/js/bundle.js
 node_modules
 .DS_Store
 dist/.DS_Store

@@ -1,0 +1,55 @@
+body {
+  color: initial;
+}
+
+.brand {
+  font-size: auto;
+}
+
+.brand .wechat {
+  color: green;
+  font-weight: 500;
+}
+
+.cover-section h2 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.cover-section h3 {
+  margin: 14px 0 10px;
+}
+
+.cover-section ul {
+  margin-left: 28px;
+  list-style-type: square;
+}
+
+.cover-section .wrap-cover {
+  padding: 15%;
+}
+
+footer .wrap-qr img {
+  max-width: 128px;
+}
+
+footer .icon img {
+  max-width: 32px;
+}
+
+footer .outside-email {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer .content .email {
+  display: flex;
+  align-items: center;
+}
+
+footer .content .email img {
+  width: 32px;
+  display: inline-block;
+  margin-right: 12px;
+}
